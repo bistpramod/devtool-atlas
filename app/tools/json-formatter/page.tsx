@@ -21,3 +21,5 @@ export default function JsonFormatterPage() {
     </main>
   );
 }
+
+// page tsx is the main file of the folder
